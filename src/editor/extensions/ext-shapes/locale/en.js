@@ -1,7 +1,7 @@
 export default {
   loading: 'Loading...',
   categories: {
-    basic: 'Basic',
+    basico: 'Basic',
     object: 'Objects',
     symbol: 'Symbols',
     arrow: 'Arrows',

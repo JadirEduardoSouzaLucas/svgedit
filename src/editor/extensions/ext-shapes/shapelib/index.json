@@ -1,6 +1,6 @@
 {
     "lib": [
-        "basic",
+        "basico",
         "animal",
         "arrow",
         "dialog_balloon",
