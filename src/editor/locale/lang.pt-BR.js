@@ -117,7 +117,8 @@ export default {
     no_prefs_or_content: 'Do not store my preferences or SVG content locally',
     jgraduate_pad: 'Enchimento',
     jgraduate_reflect: 'Reflexão',
-    jgraduate_repeat: 'Repetição'
+    jgraduate_repeat: 'Repetição',
+    zoom_level: 'Nível do Zoom'
   },
   tools: {
     main_menu: 'Menu Principal',
